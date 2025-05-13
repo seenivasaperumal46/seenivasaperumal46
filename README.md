@@ -1,5 +1,5 @@
-<h1 align="center">Hey there, I'm Seenu 👋</h1>
-<h3 align="center">Java Developer | AI & DS Student | Problem Solver</h3>
+<h1 align="left">Hey there, I'm Seenu 👋</h1>
+<h3 align="left"> Software Developer | Java | Python </h3>
 
 ---
 
@@ -13,13 +13,34 @@
 
 ---
 
-### ⚙️ Tech Stack
+### 💻 Tech Stack
 
-- **Languages:** Java, Python  
-- **Frameworks:** Spring Boot, JDBC  
-- **Databases:** MySQL  
-- **Tools:** Git, GitHub, IntelliJ IDEA, Excel, PowerBI 
-- **Concepts:** OOPs, DBMS, DSA, Software Engineering
+#### 🚀 Programming Languages & Frameworks
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/SpringBoot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" />
+</p>
+
+#### 🗃️ Database & Version Control
+<p align="center">
+  <img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+#### 📊 Data Analytics
+<p align="center">
+  <img src="https://img.shields.io/badge/Excel-%23217346.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=black" />
+</p>
+
+#### 🛠️ Tools & IDEs
+<p align="center">
+  <img src="https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-%23000000.svg?style=for-the-badge&logo=intellijidea&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter%20Notebook-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white" />
+</p>
 
 ---
 
@@ -38,14 +59,26 @@
 
 - 💻 I consistently solve coding problems on **LeetCode** to sharpen my DSA skills.
 - 🔍 Focused topics: Arrays, Strings, Recursion, Linked Lists, Trees
-- 🧩 [My LeetCode Profile](https://leetcode.com/your-leetcode-username)
+- 🧩 [My LeetCode Profile]https://leetcode.com/u/Seenivasaperumal46/
+
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Seenivasaperumal46?theme=dark&font=Roboto&ext=heatmap" alt="LeetCode Stats" />
+</p>
+
+<p align="center">
+  🔍 Focused on: Arrays, Strings, Recursion, Linked Lists <br>
+  🧩 <a href="https://leetcode.com/u/Seenivasaperumal46/">Visit My LeetCode Profile</a>
+</p>
 
 ---
 
 ### 📫 Let's Connect
 
-- 📧 Email: `your.email@example.com`
-- 💼 LinkedIn: [linkedin.com/in/your-link](https://linkedin.com/in/your-link)
+- 📧 Email: `nseenivasaperumal621@gmail.com`
+- 💼 LinkedIn: [linkedin.com/in/your-link]www.linkedin.com/in/seenivasa-perumal-n
+
+
 
 ---
 
