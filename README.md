@@ -5,7 +5,7 @@
 
 ### 👨‍🎓 About Me
 
-- 💻 Final year student at **Saranathan College of Engineering**, majoring in **AI & Data Science**.
+- 💻 B-Tech graduate student at **Saranathan College of Engineering**, majoring in **AI & Data Science**.
 - 👨‍💻 Passionate about **Java Development** and real-world software engineering.
 - 📚 Actively preparing for software developer roles, focused on **Spring Boot**, **DSA**, and **clean code**.
 - 🧠 Exploring AI and Python tools during academic work — but I love to build solid backend systems with Java.
