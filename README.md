@@ -51,7 +51,7 @@
 | [Driver Drowsiness Detection](https://github.com/Sudharsan109/Detection-of-Driver-Fatigue-with-Advanced-Spatial-AI-Models) | Detects sleepy drivers using computer vision and facial landmarks. | Python, OpenCV |
 | [Employee management system using springboot with SQL](https://github.com/seenivasaperumal46/Employee_Management_System) | A full CRUD API using Spring Boot and MySQL. | Java, Spring Boot, MySql, JDBC, REST-API| 
 | [Library_Management CLI App](https://github.com/seenivasaperumal46/Mini_project2) | A simple Java CLI app to manage books using OOP and ArrayList. | Java |
-| [Portfolio Website](https://github.com/your-username/portfolio) | A personal website to showcase my skills and projects. | HTML, CSS, JS |
+| [Portfolio Website](https://github.com/seenivasaperumal46/seenu-portfolio) | A personal website to showcase my skills and projects. | HTML, CSS, JS |
 
 ---
 
