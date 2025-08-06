@@ -76,7 +76,7 @@
 ### 📫 Let's Connect
 
 - 📧 Email: `nseenivasaperumal621@gmail.com`
-- 💼 LinkedIn: [linkedin.com/in/your-link]www.linkedin.com/in/seenivasa-perumal-n
+- 💼 LinkedIn: www.linkedin.com/in/seenivasa-perumal-n
 
 
 
